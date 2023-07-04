@@ -53,11 +53,11 @@ operating system. Anaconda Python distributions include Jupyter Notebook.
 |scikit-image|0.19.1|BSD-3|https://anaconda.org/conda-forge/scikit-image|
 |plotly|5.6.0|MIT|https://anaconda.org/conda-forge/plotly|
 |bokeh|2.4.2|BSD-3|https://anaconda.org/conda-forge/bokeh|
-|hda|0.2.2|Apache-2.0|https://pypi.org/project/hda/|
+|hda|1.15|Apache-2.0|https://pypi.org/project/hda/|
 |eumartools|0.0.1|MIT|https://anaconda.org/cmts/eumartools|
 |ipykernel|6.4.1|BSD-3|https://anaconda.org/conda-forge/ipykernel|
 |cmocean|2.0|MIT|https://anaconda.org/conda-forge/cmocean|
-|eumdac|1.0.0|MIT|https://anaconda.org/eumetsat/eumdac|
+|eumdac|2.0.1|MIT|https://anaconda.org/eumetsat/eumdac|
 
 ## Installation
 
@@ -135,7 +135,7 @@ If you are running this code for the first time in this environment, you need to
 
 Now you can run Jupyter using:
 
-`jupyter notebook` or `jupyter-notebook`, depending on your operating system.
+`jupyter lab` or `jupyter-lab`, depending on your operating system.
 
 This should open Jupyter Notebooks in a browser window. On occasion, Jupyter may not
 be able to open a window and will give you a URL to past in your browser. Please do
@@ -179,4 +179,4 @@ at ops@eumetsat.int. We welcome your feedback!
 
 **Run**
 
-`jupyter notebook` or `jupyter-notebook`
+`jupyter lab` or `jupyter-lab`

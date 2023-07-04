@@ -1,9 +1,9 @@
 # Component information
 name: learn-olci
 description: Compendium of training content associated with the Copernicus Sentinel-3 OLCI sensor in the marine domain.
-copyright: 2022 EUMETSAT
+copyright: 2023 EUMETSAT
 license_spdx: MIT
-date: 01-03-2022
+date: 01-07-2023
 home_url: https://gitlab.eumetsat.int/eumetlab/ocean/sensors/learn-olci
  
 # Package IPR documentation
@@ -24,7 +24,8 @@ about_resource: ./2_OLCI_advanced/2_2_acquire_OLCI_time_series.ipynb
 about_resource: ./2_OLCI_advanced/2_3_OLCI_SNAP_batch_processing_C2RCC.ipynb
 about_resource: ./2_OLCI_advanced/2_4_OLCI_SNAP_batch_processing_subset_reproj_flag_CHL.ipynb
 about_resource: ./2_OLCI_advanced/2_5_OLCI_ope_rep_time_series.ipynb
-about_resource: ./2_OLCI_advanced/GPT_config_template.xml
+about_resource: ./2_OLCI_advanced/GPT_config_template_subset_flag_reproject_chl.xml
+about_resource: ./2_OLCI_advanced/GPT_config_template_subset_idepix_c2rcc.xml
 about_resource: ./img/OLCI_spectral_1200.png
 about_resource: ./img/SNAP_graph_XML.png
 about_resource: ./img/SNAP_graphbuilder.png
